@@ -1,0 +1,16 @@
+D:\Onur\Projects\pratikler\8.diziler\2.array\bin\Debug\net5.0\2.array.exe
+D:\Onur\Projects\pratikler\8.diziler\2.array\bin\Debug\net5.0\2.array.deps.json
+D:\Onur\Projects\pratikler\8.diziler\2.array\bin\Debug\net5.0\2.array.runtimeconfig.json
+D:\Onur\Projects\pratikler\8.diziler\2.array\bin\Debug\net5.0\2.array.runtimeconfig.dev.json
+D:\Onur\Projects\pratikler\8.diziler\2.array\bin\Debug\net5.0\2.array.dll
+D:\Onur\Projects\pratikler\8.diziler\2.array\bin\Debug\net5.0\2.array.pdb
+D:\Onur\Projects\pratikler\8.diziler\2.array\obj\Debug\net5.0\2.array.csproj.AssemblyReference.cache
+D:\Onur\Projects\pratikler\8.diziler\2.array\obj\Debug\net5.0\2.array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Onur\Projects\pratikler\8.diziler\2.array\obj\Debug\net5.0\2.array.AssemblyInfoInputs.cache
+D:\Onur\Projects\pratikler\8.diziler\2.array\obj\Debug\net5.0\2.array.AssemblyInfo.cs
+D:\Onur\Projects\pratikler\8.diziler\2.array\obj\Debug\net5.0\2.array.csproj.CoreCompileInputs.cache
+D:\Onur\Projects\pratikler\8.diziler\2.array\obj\Debug\net5.0\2.array.dll
+D:\Onur\Projects\pratikler\8.diziler\2.array\obj\Debug\net5.0\refint\2.array.dll
+D:\Onur\Projects\pratikler\8.diziler\2.array\obj\Debug\net5.0\2.array.pdb
+D:\Onur\Projects\pratikler\8.diziler\2.array\obj\Debug\net5.0\2.array.genruntimeconfig.cache
+D:\Onur\Projects\pratikler\8.diziler\2.array\obj\Debug\net5.0\ref\2.array.dll

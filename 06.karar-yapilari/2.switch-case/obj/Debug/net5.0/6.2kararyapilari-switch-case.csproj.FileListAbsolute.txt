@@ -1,0 +1,16 @@
+D:\Onur\Projects\pratikler\6.2kararyapilari-switch-case\bin\Debug\net5.0\6.2kararyapilari-switch-case.exe
+D:\Onur\Projects\pratikler\6.2kararyapilari-switch-case\bin\Debug\net5.0\6.2kararyapilari-switch-case.deps.json
+D:\Onur\Projects\pratikler\6.2kararyapilari-switch-case\bin\Debug\net5.0\6.2kararyapilari-switch-case.runtimeconfig.json
+D:\Onur\Projects\pratikler\6.2kararyapilari-switch-case\bin\Debug\net5.0\6.2kararyapilari-switch-case.runtimeconfig.dev.json
+D:\Onur\Projects\pratikler\6.2kararyapilari-switch-case\bin\Debug\net5.0\6.2kararyapilari-switch-case.dll
+D:\Onur\Projects\pratikler\6.2kararyapilari-switch-case\bin\Debug\net5.0\6.2kararyapilari-switch-case.pdb
+D:\Onur\Projects\pratikler\6.2kararyapilari-switch-case\obj\Debug\net5.0\6.2kararyapilari-switch-case.csproj.AssemblyReference.cache
+D:\Onur\Projects\pratikler\6.2kararyapilari-switch-case\obj\Debug\net5.0\6.2kararyapilari-switch-case.GeneratedMSBuildEditorConfig.editorconfig
+D:\Onur\Projects\pratikler\6.2kararyapilari-switch-case\obj\Debug\net5.0\6.2kararyapilari-switch-case.AssemblyInfoInputs.cache
+D:\Onur\Projects\pratikler\6.2kararyapilari-switch-case\obj\Debug\net5.0\6.2kararyapilari-switch-case.AssemblyInfo.cs
+D:\Onur\Projects\pratikler\6.2kararyapilari-switch-case\obj\Debug\net5.0\6.2kararyapilari-switch-case.csproj.CoreCompileInputs.cache
+D:\Onur\Projects\pratikler\6.2kararyapilari-switch-case\obj\Debug\net5.0\6.2kararyapilari-switch-case.dll
+D:\Onur\Projects\pratikler\6.2kararyapilari-switch-case\obj\Debug\net5.0\refint\6.2kararyapilari-switch-case.dll
+D:\Onur\Projects\pratikler\6.2kararyapilari-switch-case\obj\Debug\net5.0\6.2kararyapilari-switch-case.pdb
+D:\Onur\Projects\pratikler\6.2kararyapilari-switch-case\obj\Debug\net5.0\6.2kararyapilari-switch-case.genruntimeconfig.cache
+D:\Onur\Projects\pratikler\6.2kararyapilari-switch-case\obj\Debug\net5.0\ref\6.2kararyapilari-switch-case.dll

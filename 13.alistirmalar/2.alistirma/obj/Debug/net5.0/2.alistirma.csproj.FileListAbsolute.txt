@@ -1,0 +1,16 @@
+D:\Onur\Projects\pratikler\13.alistirmalar\2.alistirma\obj\Debug\net5.0\2.alistirma.csproj.AssemblyReference.cache
+D:\Onur\Projects\pratikler\13.alistirmalar\2.alistirma\obj\Debug\net5.0\2.alistirma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Onur\Projects\pratikler\13.alistirmalar\2.alistirma\obj\Debug\net5.0\2.alistirma.AssemblyInfoInputs.cache
+D:\Onur\Projects\pratikler\13.alistirmalar\2.alistirma\obj\Debug\net5.0\2.alistirma.AssemblyInfo.cs
+D:\Onur\Projects\pratikler\13.alistirmalar\2.alistirma\obj\Debug\net5.0\2.alistirma.csproj.CoreCompileInputs.cache
+D:\Onur\Projects\pratikler\13.alistirmalar\2.alistirma\bin\Debug\net5.0\2.alistirma.exe
+D:\Onur\Projects\pratikler\13.alistirmalar\2.alistirma\bin\Debug\net5.0\2.alistirma.deps.json
+D:\Onur\Projects\pratikler\13.alistirmalar\2.alistirma\bin\Debug\net5.0\2.alistirma.runtimeconfig.json
+D:\Onur\Projects\pratikler\13.alistirmalar\2.alistirma\bin\Debug\net5.0\2.alistirma.runtimeconfig.dev.json
+D:\Onur\Projects\pratikler\13.alistirmalar\2.alistirma\bin\Debug\net5.0\2.alistirma.dll
+D:\Onur\Projects\pratikler\13.alistirmalar\2.alistirma\bin\Debug\net5.0\2.alistirma.pdb
+D:\Onur\Projects\pratikler\13.alistirmalar\2.alistirma\obj\Debug\net5.0\2.alistirma.dll
+D:\Onur\Projects\pratikler\13.alistirmalar\2.alistirma\obj\Debug\net5.0\refint\2.alistirma.dll
+D:\Onur\Projects\pratikler\13.alistirmalar\2.alistirma\obj\Debug\net5.0\2.alistirma.pdb
+D:\Onur\Projects\pratikler\13.alistirmalar\2.alistirma\obj\Debug\net5.0\2.alistirma.genruntimeconfig.cache
+D:\Onur\Projects\pratikler\13.alistirmalar\2.alistirma\obj\Debug\net5.0\ref\2.alistirma.dll

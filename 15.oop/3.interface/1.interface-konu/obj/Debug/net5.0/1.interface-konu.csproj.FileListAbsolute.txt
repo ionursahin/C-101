@@ -1,0 +1,16 @@
+D:\Onur\Projects\C#101-Pratikler\15.oop\3.interface\1.interface-konu\bin\Debug\net5.0\1.interface-konu.exe
+D:\Onur\Projects\C#101-Pratikler\15.oop\3.interface\1.interface-konu\bin\Debug\net5.0\1.interface-konu.deps.json
+D:\Onur\Projects\C#101-Pratikler\15.oop\3.interface\1.interface-konu\bin\Debug\net5.0\1.interface-konu.runtimeconfig.json
+D:\Onur\Projects\C#101-Pratikler\15.oop\3.interface\1.interface-konu\bin\Debug\net5.0\1.interface-konu.runtimeconfig.dev.json
+D:\Onur\Projects\C#101-Pratikler\15.oop\3.interface\1.interface-konu\bin\Debug\net5.0\1.interface-konu.dll
+D:\Onur\Projects\C#101-Pratikler\15.oop\3.interface\1.interface-konu\bin\Debug\net5.0\1.interface-konu.pdb
+D:\Onur\Projects\C#101-Pratikler\15.oop\3.interface\1.interface-konu\obj\Debug\net5.0\1.interface-konu.csproj.AssemblyReference.cache
+D:\Onur\Projects\C#101-Pratikler\15.oop\3.interface\1.interface-konu\obj\Debug\net5.0\1.interface-konu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Onur\Projects\C#101-Pratikler\15.oop\3.interface\1.interface-konu\obj\Debug\net5.0\1.interface-konu.AssemblyInfoInputs.cache
+D:\Onur\Projects\C#101-Pratikler\15.oop\3.interface\1.interface-konu\obj\Debug\net5.0\1.interface-konu.AssemblyInfo.cs
+D:\Onur\Projects\C#101-Pratikler\15.oop\3.interface\1.interface-konu\obj\Debug\net5.0\1.interface-konu.csproj.CoreCompileInputs.cache
+D:\Onur\Projects\C#101-Pratikler\15.oop\3.interface\1.interface-konu\obj\Debug\net5.0\1.interface-konu.dll
+D:\Onur\Projects\C#101-Pratikler\15.oop\3.interface\1.interface-konu\obj\Debug\net5.0\refint\1.interface-konu.dll
+D:\Onur\Projects\C#101-Pratikler\15.oop\3.interface\1.interface-konu\obj\Debug\net5.0\1.interface-konu.pdb
+D:\Onur\Projects\C#101-Pratikler\15.oop\3.interface\1.interface-konu\obj\Debug\net5.0\1.interface-konu.genruntimeconfig.cache
+D:\Onur\Projects\C#101-Pratikler\15.oop\3.interface\1.interface-konu\obj\Debug\net5.0\ref\1.interface-konu.dll

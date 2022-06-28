@@ -1,0 +1,16 @@
+D:\Onur\Projects\pratikler\14.siniflar\3.encapsulation-ve-propertykavrami\bin\Debug\net5.0\3.encapsulation-ve-propertykavrami.exe
+D:\Onur\Projects\pratikler\14.siniflar\3.encapsulation-ve-propertykavrami\bin\Debug\net5.0\3.encapsulation-ve-propertykavrami.deps.json
+D:\Onur\Projects\pratikler\14.siniflar\3.encapsulation-ve-propertykavrami\bin\Debug\net5.0\3.encapsulation-ve-propertykavrami.runtimeconfig.json
+D:\Onur\Projects\pratikler\14.siniflar\3.encapsulation-ve-propertykavrami\bin\Debug\net5.0\3.encapsulation-ve-propertykavrami.runtimeconfig.dev.json
+D:\Onur\Projects\pratikler\14.siniflar\3.encapsulation-ve-propertykavrami\bin\Debug\net5.0\3.encapsulation-ve-propertykavrami.dll
+D:\Onur\Projects\pratikler\14.siniflar\3.encapsulation-ve-propertykavrami\bin\Debug\net5.0\3.encapsulation-ve-propertykavrami.pdb
+D:\Onur\Projects\pratikler\14.siniflar\3.encapsulation-ve-propertykavrami\obj\Debug\net5.0\3.encapsulation-ve-propertykavrami.csproj.AssemblyReference.cache
+D:\Onur\Projects\pratikler\14.siniflar\3.encapsulation-ve-propertykavrami\obj\Debug\net5.0\3.encapsulation-ve-propertykavrami.GeneratedMSBuildEditorConfig.editorconfig
+D:\Onur\Projects\pratikler\14.siniflar\3.encapsulation-ve-propertykavrami\obj\Debug\net5.0\3.encapsulation-ve-propertykavrami.AssemblyInfoInputs.cache
+D:\Onur\Projects\pratikler\14.siniflar\3.encapsulation-ve-propertykavrami\obj\Debug\net5.0\3.encapsulation-ve-propertykavrami.AssemblyInfo.cs
+D:\Onur\Projects\pratikler\14.siniflar\3.encapsulation-ve-propertykavrami\obj\Debug\net5.0\3.encapsulation-ve-propertykavrami.csproj.CoreCompileInputs.cache
+D:\Onur\Projects\pratikler\14.siniflar\3.encapsulation-ve-propertykavrami\obj\Debug\net5.0\3.encapsulation-ve-propertykavrami.dll
+D:\Onur\Projects\pratikler\14.siniflar\3.encapsulation-ve-propertykavrami\obj\Debug\net5.0\refint\3.encapsulation-ve-propertykavrami.dll
+D:\Onur\Projects\pratikler\14.siniflar\3.encapsulation-ve-propertykavrami\obj\Debug\net5.0\3.encapsulation-ve-propertykavrami.pdb
+D:\Onur\Projects\pratikler\14.siniflar\3.encapsulation-ve-propertykavrami\obj\Debug\net5.0\3.encapsulation-ve-propertykavrami.genruntimeconfig.cache
+D:\Onur\Projects\pratikler\14.siniflar\3.encapsulation-ve-propertykavrami\obj\Debug\net5.0\ref\3.encapsulation-ve-propertykavrami.dll

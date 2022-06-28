@@ -1,0 +1,16 @@
+D:\Onur\Projects\pratikler\4.tip-degisimleri\bin\Debug\net5.0\4.tip-degisimleri.exe
+D:\Onur\Projects\pratikler\4.tip-degisimleri\bin\Debug\net5.0\4.tip-degisimleri.deps.json
+D:\Onur\Projects\pratikler\4.tip-degisimleri\bin\Debug\net5.0\4.tip-degisimleri.runtimeconfig.json
+D:\Onur\Projects\pratikler\4.tip-degisimleri\bin\Debug\net5.0\4.tip-degisimleri.runtimeconfig.dev.json
+D:\Onur\Projects\pratikler\4.tip-degisimleri\bin\Debug\net5.0\4.tip-degisimleri.dll
+D:\Onur\Projects\pratikler\4.tip-degisimleri\bin\Debug\net5.0\4.tip-degisimleri.pdb
+D:\Onur\Projects\pratikler\4.tip-degisimleri\obj\Debug\net5.0\4.tip-degisimleri.csproj.AssemblyReference.cache
+D:\Onur\Projects\pratikler\4.tip-degisimleri\obj\Debug\net5.0\4.tip-degisimleri.GeneratedMSBuildEditorConfig.editorconfig
+D:\Onur\Projects\pratikler\4.tip-degisimleri\obj\Debug\net5.0\4.tip-degisimleri.AssemblyInfoInputs.cache
+D:\Onur\Projects\pratikler\4.tip-degisimleri\obj\Debug\net5.0\4.tip-degisimleri.AssemblyInfo.cs
+D:\Onur\Projects\pratikler\4.tip-degisimleri\obj\Debug\net5.0\4.tip-degisimleri.csproj.CoreCompileInputs.cache
+D:\Onur\Projects\pratikler\4.tip-degisimleri\obj\Debug\net5.0\4.tip-degisimleri.dll
+D:\Onur\Projects\pratikler\4.tip-degisimleri\obj\Debug\net5.0\refint\4.tip-degisimleri.dll
+D:\Onur\Projects\pratikler\4.tip-degisimleri\obj\Debug\net5.0\4.tip-degisimleri.pdb
+D:\Onur\Projects\pratikler\4.tip-degisimleri\obj\Debug\net5.0\4.tip-degisimleri.genruntimeconfig.cache
+D:\Onur\Projects\pratikler\4.tip-degisimleri\obj\Debug\net5.0\ref\4.tip-degisimleri.dll
