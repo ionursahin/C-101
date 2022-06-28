@@ -1,0 +1,16 @@
+D:\Onur\Projects\pratikler\11.hazirmethodlar\2.datetime-ve-math\bin\Debug\net5.0\2.datetime-ve-math.exe
+D:\Onur\Projects\pratikler\11.hazirmethodlar\2.datetime-ve-math\bin\Debug\net5.0\2.datetime-ve-math.deps.json
+D:\Onur\Projects\pratikler\11.hazirmethodlar\2.datetime-ve-math\bin\Debug\net5.0\2.datetime-ve-math.runtimeconfig.json
+D:\Onur\Projects\pratikler\11.hazirmethodlar\2.datetime-ve-math\bin\Debug\net5.0\2.datetime-ve-math.runtimeconfig.dev.json
+D:\Onur\Projects\pratikler\11.hazirmethodlar\2.datetime-ve-math\bin\Debug\net5.0\2.datetime-ve-math.dll
+D:\Onur\Projects\pratikler\11.hazirmethodlar\2.datetime-ve-math\bin\Debug\net5.0\2.datetime-ve-math.pdb
+D:\Onur\Projects\pratikler\11.hazirmethodlar\2.datetime-ve-math\obj\Debug\net5.0\2.datetime-ve-math.csproj.AssemblyReference.cache
+D:\Onur\Projects\pratikler\11.hazirmethodlar\2.datetime-ve-math\obj\Debug\net5.0\2.datetime-ve-math.GeneratedMSBuildEditorConfig.editorconfig
+D:\Onur\Projects\pratikler\11.hazirmethodlar\2.datetime-ve-math\obj\Debug\net5.0\2.datetime-ve-math.AssemblyInfoInputs.cache
+D:\Onur\Projects\pratikler\11.hazirmethodlar\2.datetime-ve-math\obj\Debug\net5.0\2.datetime-ve-math.AssemblyInfo.cs
+D:\Onur\Projects\pratikler\11.hazirmethodlar\2.datetime-ve-math\obj\Debug\net5.0\2.datetime-ve-math.csproj.CoreCompileInputs.cache
+D:\Onur\Projects\pratikler\11.hazirmethodlar\2.datetime-ve-math\obj\Debug\net5.0\2.datetime-ve-math.dll
+D:\Onur\Projects\pratikler\11.hazirmethodlar\2.datetime-ve-math\obj\Debug\net5.0\refint\2.datetime-ve-math.dll
+D:\Onur\Projects\pratikler\11.hazirmethodlar\2.datetime-ve-math\obj\Debug\net5.0\2.datetime-ve-math.pdb
+D:\Onur\Projects\pratikler\11.hazirmethodlar\2.datetime-ve-math\obj\Debug\net5.0\2.datetime-ve-math.genruntimeconfig.cache
+D:\Onur\Projects\pratikler\11.hazirmethodlar\2.datetime-ve-math\obj\Debug\net5.0\ref\2.datetime-ve-math.dll

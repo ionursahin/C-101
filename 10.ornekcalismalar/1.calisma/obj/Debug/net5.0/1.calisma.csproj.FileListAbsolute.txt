@@ -1,0 +1,16 @@
+D:\Onur\Projects\pratikler\10.ornekcalismalar\1.calisma\obj\Debug\net5.0\1.calisma.csproj.AssemblyReference.cache
+D:\Onur\Projects\pratikler\10.ornekcalismalar\1.calisma\obj\Debug\net5.0\1.calisma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Onur\Projects\pratikler\10.ornekcalismalar\1.calisma\obj\Debug\net5.0\1.calisma.AssemblyInfoInputs.cache
+D:\Onur\Projects\pratikler\10.ornekcalismalar\1.calisma\obj\Debug\net5.0\1.calisma.AssemblyInfo.cs
+D:\Onur\Projects\pratikler\10.ornekcalismalar\1.calisma\obj\Debug\net5.0\1.calisma.csproj.CoreCompileInputs.cache
+D:\Onur\Projects\pratikler\10.ornekcalismalar\1.calisma\bin\Debug\net5.0\1.calisma.exe
+D:\Onur\Projects\pratikler\10.ornekcalismalar\1.calisma\bin\Debug\net5.0\1.calisma.deps.json
+D:\Onur\Projects\pratikler\10.ornekcalismalar\1.calisma\bin\Debug\net5.0\1.calisma.runtimeconfig.json
+D:\Onur\Projects\pratikler\10.ornekcalismalar\1.calisma\bin\Debug\net5.0\1.calisma.runtimeconfig.dev.json
+D:\Onur\Projects\pratikler\10.ornekcalismalar\1.calisma\bin\Debug\net5.0\1.calisma.dll
+D:\Onur\Projects\pratikler\10.ornekcalismalar\1.calisma\bin\Debug\net5.0\1.calisma.pdb
+D:\Onur\Projects\pratikler\10.ornekcalismalar\1.calisma\obj\Debug\net5.0\1.calisma.dll
+D:\Onur\Projects\pratikler\10.ornekcalismalar\1.calisma\obj\Debug\net5.0\refint\1.calisma.dll
+D:\Onur\Projects\pratikler\10.ornekcalismalar\1.calisma\obj\Debug\net5.0\1.calisma.pdb
+D:\Onur\Projects\pratikler\10.ornekcalismalar\1.calisma\obj\Debug\net5.0\1.calisma.genruntimeconfig.cache
+D:\Onur\Projects\pratikler\10.ornekcalismalar\1.calisma\obj\Debug\net5.0\ref\1.calisma.dll

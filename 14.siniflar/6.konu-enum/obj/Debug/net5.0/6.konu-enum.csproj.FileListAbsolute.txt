@@ -1,0 +1,16 @@
+D:\Onur\Projects\pratikler\14.siniflar\6.konu-enum\bin\Debug\net5.0\6.konu-enum.exe
+D:\Onur\Projects\pratikler\14.siniflar\6.konu-enum\bin\Debug\net5.0\6.konu-enum.deps.json
+D:\Onur\Projects\pratikler\14.siniflar\6.konu-enum\bin\Debug\net5.0\6.konu-enum.runtimeconfig.json
+D:\Onur\Projects\pratikler\14.siniflar\6.konu-enum\bin\Debug\net5.0\6.konu-enum.runtimeconfig.dev.json
+D:\Onur\Projects\pratikler\14.siniflar\6.konu-enum\bin\Debug\net5.0\6.konu-enum.dll
+D:\Onur\Projects\pratikler\14.siniflar\6.konu-enum\bin\Debug\net5.0\6.konu-enum.pdb
+D:\Onur\Projects\pratikler\14.siniflar\6.konu-enum\obj\Debug\net5.0\6.konu-enum.csproj.AssemblyReference.cache
+D:\Onur\Projects\pratikler\14.siniflar\6.konu-enum\obj\Debug\net5.0\6.konu-enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Onur\Projects\pratikler\14.siniflar\6.konu-enum\obj\Debug\net5.0\6.konu-enum.AssemblyInfoInputs.cache
+D:\Onur\Projects\pratikler\14.siniflar\6.konu-enum\obj\Debug\net5.0\6.konu-enum.AssemblyInfo.cs
+D:\Onur\Projects\pratikler\14.siniflar\6.konu-enum\obj\Debug\net5.0\6.konu-enum.csproj.CoreCompileInputs.cache
+D:\Onur\Projects\pratikler\14.siniflar\6.konu-enum\obj\Debug\net5.0\6.konu-enum.dll
+D:\Onur\Projects\pratikler\14.siniflar\6.konu-enum\obj\Debug\net5.0\refint\6.konu-enum.dll
+D:\Onur\Projects\pratikler\14.siniflar\6.konu-enum\obj\Debug\net5.0\6.konu-enum.pdb
+D:\Onur\Projects\pratikler\14.siniflar\6.konu-enum\obj\Debug\net5.0\6.konu-enum.genruntimeconfig.cache
+D:\Onur\Projects\pratikler\14.siniflar\6.konu-enum\obj\Debug\net5.0\ref\6.konu-enum.dll

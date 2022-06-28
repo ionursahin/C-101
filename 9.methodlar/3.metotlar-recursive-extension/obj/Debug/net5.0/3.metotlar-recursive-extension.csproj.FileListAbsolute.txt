@@ -1,0 +1,16 @@
+D:\Onur\Projects\pratikler\9.methodlar\3.metotlar-recursive-extension\bin\Debug\net5.0\3.metotlar-recursive-extension.exe
+D:\Onur\Projects\pratikler\9.methodlar\3.metotlar-recursive-extension\bin\Debug\net5.0\3.metotlar-recursive-extension.deps.json
+D:\Onur\Projects\pratikler\9.methodlar\3.metotlar-recursive-extension\bin\Debug\net5.0\3.metotlar-recursive-extension.runtimeconfig.json
+D:\Onur\Projects\pratikler\9.methodlar\3.metotlar-recursive-extension\bin\Debug\net5.0\3.metotlar-recursive-extension.runtimeconfig.dev.json
+D:\Onur\Projects\pratikler\9.methodlar\3.metotlar-recursive-extension\bin\Debug\net5.0\3.metotlar-recursive-extension.dll
+D:\Onur\Projects\pratikler\9.methodlar\3.metotlar-recursive-extension\bin\Debug\net5.0\3.metotlar-recursive-extension.pdb
+D:\Onur\Projects\pratikler\9.methodlar\3.metotlar-recursive-extension\obj\Debug\net5.0\3.metotlar-recursive-extension.csproj.AssemblyReference.cache
+D:\Onur\Projects\pratikler\9.methodlar\3.metotlar-recursive-extension\obj\Debug\net5.0\3.metotlar-recursive-extension.GeneratedMSBuildEditorConfig.editorconfig
+D:\Onur\Projects\pratikler\9.methodlar\3.metotlar-recursive-extension\obj\Debug\net5.0\3.metotlar-recursive-extension.AssemblyInfoInputs.cache
+D:\Onur\Projects\pratikler\9.methodlar\3.metotlar-recursive-extension\obj\Debug\net5.0\3.metotlar-recursive-extension.AssemblyInfo.cs
+D:\Onur\Projects\pratikler\9.methodlar\3.metotlar-recursive-extension\obj\Debug\net5.0\3.metotlar-recursive-extension.csproj.CoreCompileInputs.cache
+D:\Onur\Projects\pratikler\9.methodlar\3.metotlar-recursive-extension\obj\Debug\net5.0\3.metotlar-recursive-extension.dll
+D:\Onur\Projects\pratikler\9.methodlar\3.metotlar-recursive-extension\obj\Debug\net5.0\refint\3.metotlar-recursive-extension.dll
+D:\Onur\Projects\pratikler\9.methodlar\3.metotlar-recursive-extension\obj\Debug\net5.0\3.metotlar-recursive-extension.pdb
+D:\Onur\Projects\pratikler\9.methodlar\3.metotlar-recursive-extension\obj\Debug\net5.0\3.metotlar-recursive-extension.genruntimeconfig.cache
+D:\Onur\Projects\pratikler\9.methodlar\3.metotlar-recursive-extension\obj\Debug\net5.0\ref\3.metotlar-recursive-extension.dll

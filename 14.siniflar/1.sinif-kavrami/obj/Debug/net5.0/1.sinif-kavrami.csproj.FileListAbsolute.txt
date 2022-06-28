@@ -1,0 +1,16 @@
+D:\Onur\Projects\pratikler\14.siniflar\1.sinif-kavrami\bin\Debug\net5.0\1.sinif-kavrami.exe
+D:\Onur\Projects\pratikler\14.siniflar\1.sinif-kavrami\bin\Debug\net5.0\1.sinif-kavrami.deps.json
+D:\Onur\Projects\pratikler\14.siniflar\1.sinif-kavrami\bin\Debug\net5.0\1.sinif-kavrami.runtimeconfig.json
+D:\Onur\Projects\pratikler\14.siniflar\1.sinif-kavrami\bin\Debug\net5.0\1.sinif-kavrami.runtimeconfig.dev.json
+D:\Onur\Projects\pratikler\14.siniflar\1.sinif-kavrami\bin\Debug\net5.0\1.sinif-kavrami.dll
+D:\Onur\Projects\pratikler\14.siniflar\1.sinif-kavrami\bin\Debug\net5.0\1.sinif-kavrami.pdb
+D:\Onur\Projects\pratikler\14.siniflar\1.sinif-kavrami\obj\Debug\net5.0\1.sinif-kavrami.csproj.AssemblyReference.cache
+D:\Onur\Projects\pratikler\14.siniflar\1.sinif-kavrami\obj\Debug\net5.0\1.sinif-kavrami.GeneratedMSBuildEditorConfig.editorconfig
+D:\Onur\Projects\pratikler\14.siniflar\1.sinif-kavrami\obj\Debug\net5.0\1.sinif-kavrami.AssemblyInfoInputs.cache
+D:\Onur\Projects\pratikler\14.siniflar\1.sinif-kavrami\obj\Debug\net5.0\1.sinif-kavrami.AssemblyInfo.cs
+D:\Onur\Projects\pratikler\14.siniflar\1.sinif-kavrami\obj\Debug\net5.0\1.sinif-kavrami.csproj.CoreCompileInputs.cache
+D:\Onur\Projects\pratikler\14.siniflar\1.sinif-kavrami\obj\Debug\net5.0\1.sinif-kavrami.dll
+D:\Onur\Projects\pratikler\14.siniflar\1.sinif-kavrami\obj\Debug\net5.0\refint\1.sinif-kavrami.dll
+D:\Onur\Projects\pratikler\14.siniflar\1.sinif-kavrami\obj\Debug\net5.0\1.sinif-kavrami.pdb
+D:\Onur\Projects\pratikler\14.siniflar\1.sinif-kavrami\obj\Debug\net5.0\1.sinif-kavrami.genruntimeconfig.cache
+D:\Onur\Projects\pratikler\14.siniflar\1.sinif-kavrami\obj\Debug\net5.0\ref\1.sinif-kavrami.dll

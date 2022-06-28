@@ -1,0 +1,16 @@
+D:\Onur\Projects\pratikler\9.methodlar\1.metotlar\bin\Debug\net5.0\1.metotlar.exe
+D:\Onur\Projects\pratikler\9.methodlar\1.metotlar\bin\Debug\net5.0\1.metotlar.deps.json
+D:\Onur\Projects\pratikler\9.methodlar\1.metotlar\bin\Debug\net5.0\1.metotlar.runtimeconfig.json
+D:\Onur\Projects\pratikler\9.methodlar\1.metotlar\bin\Debug\net5.0\1.metotlar.runtimeconfig.dev.json
+D:\Onur\Projects\pratikler\9.methodlar\1.metotlar\bin\Debug\net5.0\1.metotlar.dll
+D:\Onur\Projects\pratikler\9.methodlar\1.metotlar\bin\Debug\net5.0\1.metotlar.pdb
+D:\Onur\Projects\pratikler\9.methodlar\1.metotlar\obj\Debug\net5.0\1.metotlar.csproj.AssemblyReference.cache
+D:\Onur\Projects\pratikler\9.methodlar\1.metotlar\obj\Debug\net5.0\1.metotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Onur\Projects\pratikler\9.methodlar\1.metotlar\obj\Debug\net5.0\1.metotlar.AssemblyInfoInputs.cache
+D:\Onur\Projects\pratikler\9.methodlar\1.metotlar\obj\Debug\net5.0\1.metotlar.AssemblyInfo.cs
+D:\Onur\Projects\pratikler\9.methodlar\1.metotlar\obj\Debug\net5.0\1.metotlar.csproj.CoreCompileInputs.cache
+D:\Onur\Projects\pratikler\9.methodlar\1.metotlar\obj\Debug\net5.0\1.metotlar.dll
+D:\Onur\Projects\pratikler\9.methodlar\1.metotlar\obj\Debug\net5.0\refint\1.metotlar.dll
+D:\Onur\Projects\pratikler\9.methodlar\1.metotlar\obj\Debug\net5.0\1.metotlar.pdb
+D:\Onur\Projects\pratikler\9.methodlar\1.metotlar\obj\Debug\net5.0\1.metotlar.genruntimeconfig.cache
+D:\Onur\Projects\pratikler\9.methodlar\1.metotlar\obj\Debug\net5.0\ref\1.metotlar.dll

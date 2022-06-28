@@ -1,0 +1,16 @@
+D:\Onur\Projects\pratikler\7.donguler\2.while-foreach\bin\Debug\net5.0\2.while-foreach.exe
+D:\Onur\Projects\pratikler\7.donguler\2.while-foreach\bin\Debug\net5.0\2.while-foreach.deps.json
+D:\Onur\Projects\pratikler\7.donguler\2.while-foreach\bin\Debug\net5.0\2.while-foreach.runtimeconfig.json
+D:\Onur\Projects\pratikler\7.donguler\2.while-foreach\bin\Debug\net5.0\2.while-foreach.runtimeconfig.dev.json
+D:\Onur\Projects\pratikler\7.donguler\2.while-foreach\bin\Debug\net5.0\2.while-foreach.dll
+D:\Onur\Projects\pratikler\7.donguler\2.while-foreach\bin\Debug\net5.0\2.while-foreach.pdb
+D:\Onur\Projects\pratikler\7.donguler\2.while-foreach\obj\Debug\net5.0\2.while-foreach.csproj.AssemblyReference.cache
+D:\Onur\Projects\pratikler\7.donguler\2.while-foreach\obj\Debug\net5.0\2.while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Onur\Projects\pratikler\7.donguler\2.while-foreach\obj\Debug\net5.0\2.while-foreach.AssemblyInfoInputs.cache
+D:\Onur\Projects\pratikler\7.donguler\2.while-foreach\obj\Debug\net5.0\2.while-foreach.AssemblyInfo.cs
+D:\Onur\Projects\pratikler\7.donguler\2.while-foreach\obj\Debug\net5.0\2.while-foreach.csproj.CoreCompileInputs.cache
+D:\Onur\Projects\pratikler\7.donguler\2.while-foreach\obj\Debug\net5.0\2.while-foreach.dll
+D:\Onur\Projects\pratikler\7.donguler\2.while-foreach\obj\Debug\net5.0\refint\2.while-foreach.dll
+D:\Onur\Projects\pratikler\7.donguler\2.while-foreach\obj\Debug\net5.0\2.while-foreach.pdb
+D:\Onur\Projects\pratikler\7.donguler\2.while-foreach\obj\Debug\net5.0\2.while-foreach.genruntimeconfig.cache
+D:\Onur\Projects\pratikler\7.donguler\2.while-foreach\obj\Debug\net5.0\ref\2.while-foreach.dll
